@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="100" viewBox="0 0 600 100" xmlns="http://www.w3.org/2000/svg">
+    <!-- Square container for EM -->
+    <rect x="10" y="10" width="80" height="80" 
+          fill="none" 
+          stroke="#c4a77d" 
+          stroke-width="2"/>
+    
+    <!-- EM letters -->
+    <g fill="#c4a77d">
+        <!-- E -->
+        <path d="M30 25 L30 75 M30 25 L60 25 M30 50 L55 50 M30 75 L60 75" 
+              stroke="#c4a77d" 
+              stroke-width="3"
+              fill="none"/>
+        
+        <!-- M -->
+        <path d="M65 25 L65 75 M65 25 L77.5 50 L90 25 M90 25 L90 75" 
+              stroke="#c4a77d" 
+              stroke-width="3"
+              fill="none"/>
+    </g>
+    
+    <!-- Essentia Machinas text -->
+    <text x="120" y="65" 
+          font-family="Times New Roman, serif" 
+          font-size="45" 
+          fill="#c4a77d"
+          font-weight="500">
+        Essentia Machinas
+    </text>
+</svg> 
